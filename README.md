@@ -22,7 +22,7 @@ Hello_World/
 Run program and open link to table
 
 #### Files Used
-2021MLBStats
+[2021 Hitting Stats By Team](https://www.baseball-reference.com/leagues/majors/2021-standard-batting.shtml#teams_standard_batting)
 File used to display table ranking each MLB team in major hitting categories for 2021
 File includes stats for:
 - Batting Average
@@ -32,7 +32,6 @@ File includes stats for:
 - RBIs
 - Home Runs
 - Etc.
-[2021 Hitting Stats By Team](https://www.baseball-reference.com/leagues/majors/2021-standard-batting.shtml#teams_standard_batting)
 
 ##### Additional Docs
 (None)
